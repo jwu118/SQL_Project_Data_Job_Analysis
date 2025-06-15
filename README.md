@@ -20,6 +20,8 @@ This project uses SQL to analyze job postings for data analyst roles, focusing o
     SQL: Utilized for data extraction and analysis.
 
     PostgreSQL: Database management system for querying job postings data.
+
+    Git/Github: For version control, ensuring collaboration and project tracking.
  
 
 📁 Repository Structure:
